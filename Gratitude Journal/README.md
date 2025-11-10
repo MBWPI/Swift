@@ -1,4 +1,4 @@
-# Gratitude Journal
+# Gratitude Journal App
 
 Gratitude Journal is a simple and private daily reflection app built with SwiftUI. It allows you to quickly record moments of gratitude, edit past entries, and revisit meaningful memories over time — all stored securely on your device.
 
